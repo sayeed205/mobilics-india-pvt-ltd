@@ -1,0 +1,8 @@
+{
+    "prettier.configPath": "./prettier.config.js",
+    "prettier.prettierPath": "./node_modules/prettier/index.cjs",
+    "cSpell.words": [
+        "ianvs",
+        "mobilics"
+    ]
+}
